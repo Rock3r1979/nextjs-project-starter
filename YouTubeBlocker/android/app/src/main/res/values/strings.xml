@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">YouTube Blocker</string>
+    <string name="title_activity_main">YouTube Blocker</string>
+    <string name="package_name">com.tvbox.youtubeblocker</string>
+    <string name="custom_url_scheme">com.tvbox.youtubeblocker</string>
+</resources>
