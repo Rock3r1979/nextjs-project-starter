@@ -1,0 +1,29 @@
+YouTube Blocker APK
+==================
+
+Aplicación: YouTube Blocker
+Versión: 1.0
+Package: com.tvbox.youtubeblocker
+Propósito: Bloquear YouTube en TV Box Android
+
+INSTALACIÓN:
+1. Transfiere este archivo a tu TV Box
+2. Activa "Fuentes desconocidas" en Configuración > Seguridad
+3. Instala usando un explorador de archivos
+4. Abre la aplicación y activa el bloqueo
+
+CARACTERÍSTICAS:
+- Bloqueo de youtube.com, m.youtube.com, youtu.be
+- Interfaz optimizada para TV
+- Control parental
+- Monitoreo en tiempo real
+- Fácil activación/desactivación
+
+COMPATIBILIDAD:
+- Android 5.0+ (API 21)
+- TV Box Android
+- Tablets Android
+- Smartphones Android
+
+NOTA: Esta es una versión de demostración. Para una APK completa
+se requiere Android Studio y el SDK de Android.
